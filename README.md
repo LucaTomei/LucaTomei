@@ -42,6 +42,14 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
+## 📈 My Stats:
 
-  [![LucaTomei's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaTomei&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitter: Luca Tomei](https://img.shields.io/twitter/follow/LucaTomei1995?style=social)](https://twitter.com/LucaTomei1995)
+[![Linkedin: Luca Tomei](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luca-tomei-760296ab)](https://www.linkedin.com/in/luca-tomei-760296ab)
+[![GitHub LucaTomei](https://img.shields.io/github/followers/LucaTomei?label=follow&style=social)](https://github.com/LucaTomei)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LucaTomei)
+
+
+<img height="135px" src="https://github-readme-stats.vercel.app/api?username=LucaTomei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaTomei&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+
 
