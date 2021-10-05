@@ -17,14 +17,17 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ## About me:
 
-🔭 I’m currently working on <strong>creative machine learning</strong> for the web  
-🌱 I’m currently learning <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-📱 = "I now develop iOS/macOS applications, and used to be an Apple developer";
-🤔 I’m looking for help with <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> and <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />  
-💬 = "I am active on Twitter (@LucaTomei1995), DMs are welcomed";
-🦀 = "I am currently learning Rust and other interesting techniques";
-📫 How to reach me: [website](https://lucatomei.github.io)
-🤫 = "Fun fact: I use LucasMac as my username over 12 years ago...";
+
+🔭 I’m currently working on <strong>creative machine learning</strong> for the web <br />
+🌱 I’m currently learning <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /><br />
+📱 = "I now develop iOS/macOS applications, and used to be an Apple developer"<br />
+🤔 I’m looking for help with <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> and <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" /> <br />
+💬 = "I am active on Twitter (@LucaTomei1995), DMs are welcomed"<br />
+🦀 = "I am currently learning Rust and other interesting techniques"<br />
+📫 How to reach me: [website](https://lucatomei.github.io)<br />
+🤫 = "Fun fact: I use LucasMac as my username over 12 years ago..."
+
+
 </a>
 <hr/>
 
@@ -236,9 +239,7 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
       </div>
     </td>
   </tr>
+  
 </table>
 
 
-<p align="center">
-<img src="https://github.com/LucaTomei/LucaTomei/blob/master/whoami.png"></img>
-</p>
