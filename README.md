@@ -1,5 +1,6 @@
 <img src="https://github.com/LucaTomei/LucaTomei/blob/master/whoami.png"></img>
 
+
 ## Hi there, I'm Luca Tomei. 👋
 
 ```
@@ -39,3 +40,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+
+
+  [![LucaTomei's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaTomei&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
